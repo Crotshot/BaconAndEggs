@@ -3,3 +3,5 @@
 *.lock
 BaconAndEggs/Temp/UnityLockfile
 *.lock
+BaconAndEggs/.vs/BaconAndEggs/v15/Server/sqlite3/db.lock
+*.lock
