@@ -2,3 +2,4 @@
 *.lock
 *.lock
 BaconAndEggs/Temp/UnityLockfile
+*.lock
